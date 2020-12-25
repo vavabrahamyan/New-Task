@@ -1,0 +1,72 @@
+.clac {
+    margin-top: 10%;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+.horiz {
+    display: flex;
+    flex-flow: row;
+    background-color: silver;
+    height: 100px;
+}
+
+.horiz_0 {
+    display: flex;
+    flex-flow: column;
+    background-color: rgb(0, 0, 0);
+    height: 30%;
+    text-align: right;
+}
+
+label {
+    background-color: rgb(0, 0, 0);
+    padding: 18px;
+    padding-top: 24px;
+    height: 15px;
+    top: 10px;
+    font-size: 16px;
+    color: rgb(230, 127, 127);
+}
+
+.in {
+    height: 51px;
+    font-size: 40px;
+    color: white;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 17px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 36px;
+    width: 25%;
+    outline: none;
+}
+
+.button1 {
+    background-image: linear-gradient(to right bottom, #ffffff, #f7f7f7, #f0f0f0, #e8e8e8, #e1e1e1);
+}
+
+.button2 {
+    background-image: linear-gradient(to right bottom, #ffffff, #f7f7f7, #f0f0f0, #e8e8e8, #e1e1e1);
+}
+
+.button3 {
+    background-image: linear-gradient(to right bottom, #ffffff, #f7f7f7, #f0f0f0, #e8e8e8, #e1e1e1);
+}
+
+.button4 {
+    background-color: #7336b8;
+    color: rgb(255, 255, 255);
+}
+
+.button5 {
+    background-color: #bf1f77;
+    color: rgb(255, 255, 255);
+    width: 50%;
+}
